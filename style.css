@@ -23,7 +23,7 @@ body{
 
   border-radius: 8px;
 
-  height: 515px;
+  height: /*515px*/ fit-content;
   width: 919px;
 }
 
@@ -32,8 +32,9 @@ body{
   flex-direction: column;
   gap: 14px;
 
+  margin-bottom: 50px;
+
   width: 699px;
-  height: fit-content;
 }
 
 details{
