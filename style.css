@@ -72,6 +72,6 @@ h1{
   }
 
   .container{
-    width: 337px;
+    width: fit-content;
   }
 }
